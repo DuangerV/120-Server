@@ -1,0 +1,336 @@
+[00:36:22] [ServerMain/INFO]: Building unoptimized datafixer
+[00:36:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:36:24] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[00:36:26] [ServerMain/INFO]: Loaded 7 recipes
+[00:36:29] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[00:36:29] [Server thread/INFO]: Loading properties
+[00:36:29] [Server thread/INFO]: This server is running CraftBukkit version 3608-Spigot-6198b5a-b5aa0be (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT)
+[00:36:29] [Server thread/INFO]: Debug logging is disabled
+[00:36:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:36:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:36:29] [Server thread/INFO]: Default game type: SURVIVAL
+[00:36:29] [Server thread/INFO]: Generating keypair
+[00:36:29] [Server thread/INFO]: Starting Minecraft server on 10.185.212.148:25565
+[00:36:29] [Server thread/INFO]: Using default channel type
+[00:36:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:36:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:36:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:36:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:36:30] [Server thread/INFO]: Preparing level "120QuarServ"
+[00:36:30] [Server thread/INFO]: -------- World Settings For [120QuarServ] --------
+[00:36:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:36:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:36:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:36:30] [Server thread/INFO]: View Distance: 12
+[00:36:30] [Server thread/INFO]: Simulation Distance: 10
+[00:36:30] [Server thread/INFO]: Mob Spawn Range: 6
+[00:36:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:36:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:36:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:36:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:36:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:36:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:36:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:36:30] [Server thread/INFO]: Max TNT Explosions: 100
+[00:36:30] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:36:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:36:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:36:49] [Server thread/INFO]: -------- World Settings For [120QuarServ_nether] --------
+[00:36:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:36:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:36:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:36:49] [Server thread/INFO]: View Distance: 12
+[00:36:49] [Server thread/INFO]: Simulation Distance: 10
+[00:36:49] [Server thread/INFO]: Mob Spawn Range: 6
+[00:36:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:36:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:36:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:36:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:36:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:36:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:36:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:36:49] [Server thread/INFO]: Max TNT Explosions: 100
+[00:36:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:36:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:36:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:36:52] [Server thread/INFO]: -------- World Settings For [120QuarServ_the_end] --------
+[00:36:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:36:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:36:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:36:52] [Server thread/INFO]: View Distance: 12
+[00:36:52] [Server thread/INFO]: Simulation Distance: 10
+[00:36:52] [Server thread/INFO]: Mob Spawn Range: 6
+[00:36:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:36:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:36:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:36:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:36:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:36:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:36:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:36:52] [Server thread/INFO]: Max TNT Explosions: 100
+[00:36:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:36:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:36:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:36:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:36:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:36:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:36:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:36:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:36:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:36:57] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:36:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:36:58] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[00:36:58] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[00:36:59] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:36:59] [Worker-Main-5/INFO]: Preparing spawn area: 3%
+[00:37:00] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[00:37:00] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[00:37:01] [Worker-Main-7/INFO]: Preparing spawn area: 6%
+[00:37:01] [Worker-Main-5/INFO]: Preparing spawn area: 6%
+[00:37:02] [Worker-Main-2/INFO]: Preparing spawn area: 8%
+[00:37:02] [Worker-Main-3/INFO]: Preparing spawn area: 9%
+[00:37:03] [Worker-Main-4/INFO]: Preparing spawn area: 10%
+[00:37:03] [Worker-Main-7/INFO]: Preparing spawn area: 11%
+[00:37:04] [Worker-Main-5/INFO]: Preparing spawn area: 13%
+[00:37:04] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[00:37:05] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[00:37:05] [Worker-Main-6/INFO]: Preparing spawn area: 17%
+[00:37:06] [Worker-Main-6/INFO]: Preparing spawn area: 17%
+[00:37:06] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[00:37:07] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[00:37:07] [Worker-Main-7/INFO]: Preparing spawn area: 22%
+[00:37:08] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[00:37:08] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[00:37:09] [Worker-Main-5/INFO]: Preparing spawn area: 27%
+[00:37:09] [Worker-Main-3/INFO]: Preparing spawn area: 28%
+[00:37:10] [Worker-Main-6/INFO]: Preparing spawn area: 30%
+[00:37:10] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[00:37:11] [Worker-Main-4/INFO]: Preparing spawn area: 33%
+[00:37:11] [Worker-Main-7/INFO]: Preparing spawn area: 34%
+[00:37:12] [Worker-Main-5/INFO]: Preparing spawn area: 37%
+[00:37:12] [Worker-Main-1/INFO]: Preparing spawn area: 39%
+[00:37:13] [Worker-Main-2/INFO]: Preparing spawn area: 41%
+[00:37:13] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[00:37:14] [Worker-Main-7/INFO]: Preparing spawn area: 44%
+[00:37:14] [Worker-Main-5/INFO]: Preparing spawn area: 46%
+[00:37:15] [Worker-Main-5/INFO]: Preparing spawn area: 48%
+[00:37:15] [Worker-Main-6/INFO]: Preparing spawn area: 51%
+[00:37:16] [Worker-Main-7/INFO]: Preparing spawn area: 53%
+[00:37:16] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[00:37:17] [Worker-Main-1/INFO]: Preparing spawn area: 56%
+[00:37:17] [Worker-Main-7/INFO]: Preparing spawn area: 57%
+[00:37:18] [Worker-Main-2/INFO]: Preparing spawn area: 59%
+[00:37:18] [Worker-Main-1/INFO]: Preparing spawn area: 62%
+[00:37:19] [Worker-Main-3/INFO]: Preparing spawn area: 64%
+[00:37:19] [Worker-Main-3/INFO]: Preparing spawn area: 67%
+[00:37:20] [Worker-Main-6/INFO]: Preparing spawn area: 68%
+[00:37:20] [Worker-Main-3/INFO]: Preparing spawn area: 69%
+[00:37:21] [Worker-Main-2/INFO]: Preparing spawn area: 70%
+[00:37:21] [Worker-Main-2/INFO]: Preparing spawn area: 74%
+[00:37:22] [Worker-Main-4/INFO]: Preparing spawn area: 77%
+[00:37:22] [Worker-Main-1/INFO]: Preparing spawn area: 79%
+[00:37:23] [Worker-Main-5/INFO]: Preparing spawn area: 82%
+[00:37:23] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[00:37:24] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[00:37:24] [Worker-Main-5/INFO]: Preparing spawn area: 85%
+[00:37:25] [Worker-Main-4/INFO]: Preparing spawn area: 87%
+[00:37:25] [Worker-Main-4/INFO]: Preparing spawn area: 90%
+[00:37:26] [Worker-Main-5/INFO]: Preparing spawn area: 93%
+[00:37:26] [Worker-Main-7/INFO]: Preparing spawn area: 95%
+[00:37:27] [Worker-Main-6/INFO]: Preparing spawn area: 98%
+[00:37:27] [Server thread/INFO]: Time elapsed: 32780 ms
+[00:37:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:37:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:37:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:37:28] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[00:37:29] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[00:37:29] [Worker-Main-5/INFO]: Preparing spawn area: 4%
+[00:37:30] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[00:37:30] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[00:37:31] [Worker-Main-5/INFO]: Preparing spawn area: 11%
+[00:37:31] [Worker-Main-2/INFO]: Preparing spawn area: 14%
+[00:37:32] [Worker-Main-5/INFO]: Preparing spawn area: 16%
+[00:37:32] [Worker-Main-4/INFO]: Preparing spawn area: 21%
+[00:37:33] [Worker-Main-5/INFO]: Preparing spawn area: 24%
+[00:37:33] [Worker-Main-4/INFO]: Preparing spawn area: 28%
+[00:37:34] [Worker-Main-4/INFO]: Preparing spawn area: 32%
+[00:37:34] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[00:37:35] [Worker-Main-1/INFO]: Preparing spawn area: 41%
+[00:37:35] [Worker-Main-3/INFO]: Preparing spawn area: 44%
+[00:37:36] [Worker-Main-2/INFO]: Preparing spawn area: 46%
+[00:37:36] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[00:37:37] [Worker-Main-7/INFO]: Preparing spawn area: 54%
+[00:37:37] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[00:37:38] [Worker-Main-3/INFO]: Preparing spawn area: 60%
+[00:37:38] [Worker-Main-5/INFO]: Preparing spawn area: 65%
+[00:37:39] [Worker-Main-7/INFO]: Preparing spawn area: 68%
+[00:37:39] [Worker-Main-2/INFO]: Preparing spawn area: 71%
+[00:37:40] [Worker-Main-4/INFO]: Preparing spawn area: 75%
+[00:37:40] [Worker-Main-4/INFO]: Preparing spawn area: 78%
+[00:37:41] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[00:37:41] [Worker-Main-6/INFO]: Preparing spawn area: 87%
+[00:37:42] [Worker-Main-5/INFO]: Preparing spawn area: 89%
+[00:37:42] [Worker-Main-7/INFO]: Preparing spawn area: 93%
+[00:37:43] [Worker-Main-6/INFO]: Preparing spawn area: 95%
+[00:37:43] [Worker-Main-1/INFO]: Preparing spawn area: 98%
+[00:37:43] [Server thread/INFO]: Time elapsed: 16081 ms
+[00:37:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:37:44] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:37:44] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:37:44] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[00:37:45] [Worker-Main-7/INFO]: Preparing spawn area: 23%
+[00:37:45] [Worker-Main-2/INFO]: Preparing spawn area: 55%
+[00:37:46] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[00:37:46] [Server thread/INFO]: Time elapsed: 2888 ms
+[00:37:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:37:46] [Server thread/INFO]: Done (76.596s)! For help, type "help"
+[00:39:36] [User Authenticator #1/INFO]: UUID of player KnightAqua is 0c02434c-1bc3-3e99-831c-bb4d0f94bd1c
+[00:39:36] [Server thread/INFO]: KnightAqua joined the game
+[00:39:36] [Server thread/INFO]: KnightAqua[/10.185.212.148:62262] logged in with entity id 393 at ([120QuarServ]9.5, 64.0, 27.5)
+[00:39:43] [User Authenticator #2/INFO]: UUID of player Elcher is e9599c91-7d8c-3572-9bff-7796119bcc02
+[00:39:43] [Server thread/INFO]: Elcher joined the game
+[00:39:43] [Server thread/INFO]: Elcher[/10.185.212.148:62267] logged in with entity id 653 at ([120QuarServ]-1.5, 71.0, 28.5)
+[00:39:53] [User Authenticator #3/INFO]: UUID of player DuangerV is 4dc3ef0f-386b-3311-a3c7-60d3e19d4b0b
+[00:39:53] [Server thread/INFO]: DuangerV joined the game
+[00:39:53] [Server thread/INFO]: DuangerV[/10.185.212.148:5565] logged in with entity id 766 at ([120QuarServ]7.5, 64.0, 40.5)
+[00:40:44] [Server thread/INFO]: KnightAqua has made the advancement [Stone Age]
+[00:41:12] [Server thread/INFO]: KnightAqua has made the advancement [Getting an Upgrade]
+[00:44:22] [Async Chat Thread - #0/INFO]: [Not Secure] <KnightAqua> 6422
+[00:44:30] [Async Chat Thread - #0/INFO]: [Not Secure] <KnightAqua> 64 22
+[00:44:55] [Async Chat Thread - #0/INFO]: [Not Secure] <DuangerV> 0 0
+[00:46:39] [Server thread/INFO]: DuangerV has made the advancement [Stone Age]
+[00:46:44] [Server thread/INFO]: DuangerV has made the advancement [Getting an Upgrade]
+[00:47:10] [Server thread/INFO]: Elcher has made the advancement [Getting an Upgrade]
+[00:49:27] [Server thread/INFO]: Elcher has made the advancement [Sweet Dreams]
+[00:49:31] [Server thread/INFO]: KnightAqua has made the advancement [Sweet Dreams]
+[00:49:33] [Server thread/INFO]: DuangerV lost connection: Disconnected
+[00:49:33] [Server thread/INFO]: DuangerV left the game
+[00:49:40] [User Authenticator #4/INFO]: UUID of player DuangerV is 4dc3ef0f-386b-3311-a3c7-60d3e19d4b0b
+[00:49:40] [Server thread/INFO]: DuangerV joined the game
+[00:49:40] [Server thread/INFO]: DuangerV[/10.185.212.148:7530] logged in with entity id 5762 at ([120QuarServ]160.40438636101297, 72.0, 106.43926918452055)
+[00:50:18] [Server thread/INFO]: Elcher has made the advancement [Stone Age]
+[00:52:56] [Async Chat Thread - #2/INFO]: [Not Secure] <DuangerV> 300 -50
+[00:54:09] [Async Chat Thread - #4/INFO]: [Not Secure] <DuangerV> 277 -140
+[00:56:44] [Server thread/INFO]: KnightAqua was shot by Pillager
+[00:57:29] [Server thread/INFO]: Elcher has made the advancement [Monster Hunter]
+[00:57:37] [Server thread/INFO]: DuangerV has made the advancement [Monster Hunter]
+[01:01:11] [Server thread/INFO]: DuangerV has made the advancement [Acquire Hardware]
+[01:01:32] [Server thread/INFO]: KnightAqua has made the advancement [Monster Hunter]
+[01:01:44] [Server thread/INFO]: KnightAqua lost connection: Disconnected
+[01:01:44] [Server thread/INFO]: KnightAqua left the game
+[01:03:02] [User Authenticator #5/INFO]: UUID of player KnightAqua is 0c02434c-1bc3-3e99-831c-bb4d0f94bd1c
+[01:03:02] [Server thread/INFO]: KnightAqua joined the game
+[01:03:02] [Server thread/INFO]: KnightAqua[/10.185.212.148:62791] logged in with entity id 14061 at ([120QuarServ]137.55015853993132, 71.0, -367.6499770362907)
+[01:03:29] [Server thread/INFO]: Elcher issued server command: /476 -542
+[01:03:47] [Async Chat Thread - #6/INFO]: [Not Secure] <Elcher> 476 -542
+[01:05:24] [Server thread/INFO]: DuangerV has made the advancement [Sweet Dreams]
+[01:06:35] [Server thread/INFO]: DuangerV has made the advancement [Not Today, Thank You]
+[01:06:49] [Server thread/INFO]: KnightAqua was slain by Zombie
+[01:07:05] [Server thread/INFO]: KnightAqua was slain by Zombie
+[01:08:31] [Server thread/INFO]: KnightAqua has made the advancement [Not Today, Thank You]
+[01:12:19] [Server thread/INFO]: DuangerV has made the advancement [A Seedy Place]
+[01:15:12] [Server thread/INFO]: DuangerV has made the advancement [Isn't It Iron Pick]
+[01:15:47] [Server thread/INFO]: KnightAqua has made the advancement [Isn't It Iron Pick]
+[01:16:15] [Server thread/INFO]: Elcher has made the advancement [Best Friends Forever]
+[01:17:03] [Server thread/INFO]: Elcher has made the advancement [The Parrots and the Bats]
+[01:19:06] [Async Chat Thread - #8/INFO]: [Not Secure] <DuangerV> 510 -569
+[01:26:30] [Server thread/INFO]: KnightAqua was slain by Enderman
+[01:27:18] [Server thread/INFO]: KnightAqua has made the advancement [Acquire Hardware]
+[01:27:23] [Server thread/INFO]: Elcher has made the advancement [A Seedy Place]
+[01:35:43] [Server thread/INFO]: Elcher has made the advancement [Acquire Hardware]
+[01:36:27] [Server thread/INFO]: KnightAqua has made the advancement [Suit Up]
+[01:36:35] [Server thread/INFO]: DuangerV has made the advancement [Suit Up]
+[01:40:42] [Server thread/INFO]: KnightAqua lost connection: Disconnected
+[01:40:42] [Server thread/INFO]: KnightAqua left the game
+[01:40:45] [Server thread/INFO]: DuangerV lost connection: Disconnected
+[01:40:45] [Server thread/INFO]: DuangerV left the game
+[01:40:49] [User Authenticator #6/INFO]: UUID of player KnightAqua is 0c02434c-1bc3-3e99-831c-bb4d0f94bd1c
+[01:40:50] [Server thread/INFO]: KnightAqua joined the game
+[01:40:50] [Server thread/INFO]: KnightAqua[/10.185.212.148:61563] logged in with entity id 26582 at ([120QuarServ]636.0563913593764, 13.0, -570.3597674122517)
+[01:40:57] [User Authenticator #7/INFO]: UUID of player DuangerV is 4dc3ef0f-386b-3311-a3c7-60d3e19d4b0b
+[01:40:57] [Server thread/INFO]: DuangerV joined the game
+[01:40:57] [Server thread/INFO]: DuangerV[/10.185.212.148:3172] logged in with entity id 26696 at ([120QuarServ]638.0505163724448, 13.0, -570.8272695973201)
+[01:42:38] [Server thread/INFO]: KnightAqua has made the advancement [Take Aim]
+[01:47:46] [Server thread/INFO]: KnightAqua was blown up by Creeper
+[01:51:29] [Server thread/INFO]: KnightAqua lost connection: Disconnected
+[01:51:29] [Server thread/INFO]: KnightAqua left the game
+[01:51:29] [Server thread/INFO]: DuangerV lost connection: Disconnected
+[01:51:29] [Server thread/INFO]: DuangerV left the game
+[01:51:36] [User Authenticator #8/INFO]: UUID of player KnightAqua is 0c02434c-1bc3-3e99-831c-bb4d0f94bd1c
+[01:51:36] [Server thread/INFO]: KnightAqua joined the game
+[01:51:36] [Server thread/INFO]: KnightAqua[/10.185.212.148:61943] logged in with entity id 29500 at ([120QuarServ]612.2585020730376, -19.0, -582.9585233898158)
+[01:51:48] [User Authenticator #9/INFO]: UUID of player DuangerV is 4dc3ef0f-386b-3311-a3c7-60d3e19d4b0b
+[01:51:48] [Server thread/INFO]: DuangerV joined the game
+[01:51:48] [Server thread/INFO]: DuangerV[/10.185.212.148:5302] logged in with entity id 29601 at ([120QuarServ]610.6171777762148, -19.0, -584.5344997370938)
+[01:56:14] [Server thread/INFO]: KnightAqua has made the advancement [Diamonds!]
+[02:01:13] [Server thread/INFO]: KnightAqua lost connection: Disconnected
+[02:01:13] [Server thread/INFO]: KnightAqua left the game
+[02:01:34] [Server thread/INFO]: Elcher lost connection: Disconnected
+[02:01:34] [Server thread/INFO]: Elcher left the game
+[02:01:49] [Server thread/INFO]: DuangerV lost connection: Disconnected
+[02:01:49] [Server thread/INFO]: DuangerV left the game
+[02:02:03] [Server thread/INFO]: Stopping the server
+[02:02:03] [Server thread/INFO]: Stopping server
+[02:02:03] [Server thread/INFO]: Saving players
+[02:02:03] [Server thread/INFO]: Saving worlds
+[02:02:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[120QuarServ]'/minecraft:overworld
+[02:02:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[120QuarServ_nether]'/minecraft:the_nether
+[02:02:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[120QuarServ_the_end]'/minecraft:the_end
+[02:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (120QuarServ): All chunks are saved
+[02:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:02:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

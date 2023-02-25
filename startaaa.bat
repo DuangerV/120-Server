@@ -1,0 +1,1 @@
+java -Xms1G -Xmx8G -jar spigot-1.19.2.jar
